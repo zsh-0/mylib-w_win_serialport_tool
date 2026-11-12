@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "project": "mylib-w-win-serialport-tool",
+  "source": "github",
+  "version": "1.0.0",
+  "package_name": "mylib-w-win-serialport-tool-v1.0.0.exe",
+  "package_parts": [
+    {
+      "name": "mylib-w-win-serialport-tool-v1.0.0.exe.part001",
+      "url": "https://github.com/zsh-0/mylib-w_win_serialport_tool/releases/download/mylib-w-win-serialport-tool-v1.0.0/mylib-w-win-serialport-tool-v1.0.0.exe.part001",
+      "sha256": "0e2bb06db42f8d6c54dbcc4cfc38279d1bbd35d0d99555534ec8cce269488266",
+      "size": 46687638
+    }
+  ],
+  "sha256": "0e2bb06db42f8d6c54dbcc4cfc38279d1bbd35d0d99555534ec8cce269488266",
+  "size": 46687638,
+  "notes": "V1.0.0\n1、首次发布，支持串口，以太网等接口调试的全能通信调试工具",
+  "mandatory": false,
+  "published_at": "2026-11-12T09:19:35+00:00"
+}
